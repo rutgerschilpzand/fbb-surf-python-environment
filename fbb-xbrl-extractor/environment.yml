@@ -3,6 +3,7 @@ channels:
   - conda-forge
   - defaults
 dependencies:
+  - jupyterlab
   - bzip2=1.0.8=hfdf4475_7
   - ca-certificates=2025.1.31=h8857fd0_0
   - libexpat=2.6.4=h240833e_0
